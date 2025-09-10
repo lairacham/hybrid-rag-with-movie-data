@@ -24,5 +24,6 @@ jupyter notebook
 
 ## How to run
 - Get the data from the [Google Drive link](https://drive.google.com/drive/folders/1Jhy5TN9MK_qbtJ86T35XP5udYu7O4jYL?usp=sharing) and paste it in the `data` folder.
+- Upload the files from the `embedding_chunks` folder to Zilliz.
 - Create a Zilliz and OpenAI account. Set up your `.env` like in the `.env.example`.
 - Run all the cells in the notebook.
