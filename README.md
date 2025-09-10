@@ -4,15 +4,20 @@ This project uses RAG to improve a response from an LLM using a vector DB and a 
 ## Requirements
 Create a virtual environment.
 ```
-python -m venv env
+conda create -n env python=3.13
 ```
 
 Activate the virtual environment.
 ```
-source env/bin/activate
+conda activate env
 ```
 
 Install the requirements.
 ```
 pip install -r requirements.txt
+```
+
+Run the notebook.
+```
+jupyter notebook
 ```
